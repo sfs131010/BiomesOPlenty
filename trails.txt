@@ -99,6 +99,9 @@ bef0a130-c4f5-4239-bd6b-a19e24802120:donator_trail
 //Iarinu
 a1dd242b-1cc0-43a6-8003-46e062e79525:donator_trail
 
+//LordyGrey
+976f3e28-90f3-4e46-b7be-23ff2979ab0e:donator_trail
+
 //Patreon - False Pledges
 //revstrom
 //adencraft2000
