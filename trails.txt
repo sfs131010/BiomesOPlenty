@@ -88,7 +88,11 @@ c44427b3-fd3c-484e-a6cf-04b2ad92ef27:donator_trail
 //deathclaw31
 b9726d8f-0455-427f-87f2-a24adfcd7268:donator_trail
 
-//Patreon Supporters (Need Verficiation)
+//LordyGrey
+976f3e28-90f3-4e46-b7be-23ff2979ab0e:donator_trail
+
+//Iarinu
+a1dd242b-1cc0-43a6-8003-46e062e79525:donator_trail
 
 //Gorduleria
 61fa5245-82a0-4985-8644-5d2f775ce1d5:donator_trail
@@ -96,17 +100,13 @@ b9726d8f-0455-427f-87f2-a24adfcd7268:donator_trail
 //Ariaxis
 bef0a130-c4f5-4239-bd6b-a19e24802120:donator_trail
 
-//Iarinu
-a1dd242b-1cc0-43a6-8003-46e062e79525:donator_trail
-
-//LordyGrey
-976f3e28-90f3-4e46-b7be-23ff2979ab0e:donator_trail
-
 //quietraccoon
 ff144975-7b5a-4494-aa4f-55a07db35e18:donator_trail
 
 //Sto3IV
 9f070456-0f8a-47a3-abf2-6ac389686b93:donator_trail
+
+//Patreon Supporters (Need Verficiation)
 
 //urix123
 6a419733-b550-46d3-a21c-46656b801849:donator_trail
