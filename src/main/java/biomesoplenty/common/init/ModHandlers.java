@@ -15,6 +15,7 @@ import net.minecraftforge.fml.relauncher.SideOnly;
 import biomesoplenty.client.handler.*;
 import biomesoplenty.common.handler.*;
 import biomesoplenty.common.handler.decoration.*;
+import biomesoplenty.common.handler.loading.BlockSwapHandler;
 import biomesoplenty.common.handler.potion.*;
 import biomesoplenty.common.network.BOPPacketHandler;
 
@@ -38,6 +39,8 @@ public class ModHandlers
         {
             registerClientEvents();
         }
+        
+        MinecraftForge.EVENT_BUS.register(new BlockSwapHandler());
     }
     
     @SideOnly(Side.CLIENT)
