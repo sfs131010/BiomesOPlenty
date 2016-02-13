@@ -129,3 +129,6 @@ f3ba6ec8-c280-4950-bb08-1fcb2eab3a9c:helper_trail
 
 //Heptaforce
 20edfd61-1e2f-4709-b4a9-7e92dbb994ce:helper_trail
+
+//NatsuArashi
+794cf289-670e-4951-b630-45806e9fa8fe:helper_trail
