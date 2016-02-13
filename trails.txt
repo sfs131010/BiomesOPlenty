@@ -132,3 +132,6 @@ f3ba6ec8-c280-4950-bb08-1fcb2eab3a9c:helper_trail
 
 //NatsuArashi
 794cf289-670e-4951-b630-45806e9fa8fe:helper_trail
+
+//Girafi
+3c1dc8d0-cee8-42dd-a48d-4056f7635fac:helper_trail
