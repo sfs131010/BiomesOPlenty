@@ -71,7 +71,8 @@ d1ab8e20-2e07-499b-b590-b4b12c1fbb42:donator_trail
 a6ddf0be-b1dd-4e40-b3dc-0437df8518cf:donator_trail
 
 //GoofyShot
-9c4e8b6c-2975-4a0a-a0ca-aef6f56b8820:donator_trail
+//9c4e8b6c-2975-4a0a-a0ca-aef6f56b8820:donator_trail
+//Requested to be removed temporarily
 
 //AquaBarnes
 c7b62bb0-8a7a-41f8-a9d9-812c89ee9c99:donator_trail
