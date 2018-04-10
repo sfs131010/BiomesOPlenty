@@ -44,6 +44,9 @@ e4c79a56-ac81-467b-850e-ed6e1e77eb40:donator_trail
 //GaulderFist
 ccebe60d-b649-4ef5-82d6-7d12f9671b61:donator_trail
 
+//SigynLaufeyson
+197bef44-e979-46d6-bdfd-c3a6f645ffe4:donator_trail
+
 //Patreon Supporters
 
 //iarspider
