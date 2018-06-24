@@ -1,5 +1,5 @@
 advancements.biomesoplenty.root.title=Biomes O' Plenty
-advancements.biomesoplenty.root.description=探險家之夢...
+advancements.biomesoplenty.root.description=探險家之夢……
 advancements.biomesoplenty.sacred_oak_sapling.title=聖橡木
 advancements.biomesoplenty.sacred_oak_sapling.description=種植一棵大棵聖橡木。
 advancements.biomesoplenty.yin_and_yang.title=陰陽
@@ -87,6 +87,7 @@ item.crystal_shard.name=星晶碎片
 item.ebony_door.name=檀木門
 item.ethereal_door.name=空靈木門
 item.eucalyptus_door.name=尤加利木門
+item.earth.name=地球
 item.filled_honeycomb.name=填滿的蜂巢
 item.fir_door.name=冷杉木門
 item.fleshchunk.name=肉片
